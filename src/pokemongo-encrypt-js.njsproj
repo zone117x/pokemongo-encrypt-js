@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>fd38e12d-509a-4010-a390-28f1a5026f9b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>perf-test.js</StartupFile>
+    <StartupFile>example.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -45,7 +45,6 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="package.json" />
     <TypeScriptCompile Include="pokemon-go-encrypt.ts" />
   </ItemGroup>
   <ItemGroup>

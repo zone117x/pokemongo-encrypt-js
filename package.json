@@ -2,7 +2,7 @@
   "name": "pokemongo-encrypt-js",
   "version": "0.0.1",
   "description": "pokemongo-encrypt-js",
-  "main": "app.js",
+  "main": "src/pokemon-go-encrypt.js",
   "author": {
     "name": "zone117x"
   }
