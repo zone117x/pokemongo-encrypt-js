@@ -1,0 +1,9 @@
+{
+  "name": "pokemongo-encrypt-js",
+  "version": "0.0.1",
+  "description": "pokemongo-encrypt-js",
+  "main": "app.js",
+  "author": {
+    "name": "zone117x"
+  }
+}
